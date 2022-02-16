@@ -1,0 +1,15 @@
+Spring aop  
+https://blog.csdn.net/mu_wind/article/details/102758005
+Spring ioc/di  
+https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484247&idx=1&sn=e228e29e344559e469ac3ecfa9715217&chksm=ebd74256dca0cb40059f3f627fc9450f916c1e1b39ba741842d91774f5bb7f518063e5acf5a0&scene=21##wechat_redirect
+Spring transaction
+源码简介
+https://zhuanlan.zhihu.com/p/25010824
+mysql介绍
+https://www.bilibili.com/video/BV1Pv411P7Fd?from=search&seid=11592169398052865192&spm_id_from=333.337.0.0
+mysql事务四大特性
+ACID
+Atomicity   原子性
+Consistency 一致性
+Isolatiao  隔离性
+Durablity 持久性
